@@ -9,7 +9,7 @@ app = Flask(__name__)
 # ──────────────────────────────────────────────
 VERIFY_TOKEN = "movistar2026"       # Pon cualquier palabra clave tuya
 WHATSAPP_TOKEN = "EAAN08XeNqq4BRS8hS3UeEktHz2PTGXkrmZCZA7WMPpaBYrUjQCD115AnMfuIMOB5OyRcRDMCaadmoph0yLpnUzeDdK2MEyzbWw1khUGu6PtEJQlLDDCV26AMIhRmmWS2I85BljU9jmbBqxyhLwAMnZAZCEQ1JRZCtpiDygBNNwKFBO17CdqPZBvR4t2yC2ZBG8ONddaQq5LLKL1PpoXXYcG5PyEtHdFFhf7YVfZCCx6284WCLTUkZAnRUTQpg1fbSpyRVXl1QBkWeugMmTGSdTpmYiAZDZD"   # Token de Meta Business API
-PHONE_NUMBER_ID = "1053535231183620"      # ID de tu número en Meta
+PHONE_NUMBER_ID = "1083765808157143"      # ID de tu número en Meta
 TU_NUMERO = "51906783403"                   # Tu número para recibir leads (con código de país)
 
 # ──────────────────────────────────────────────
